@@ -6,9 +6,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 #pip install xlsxwriter
-#pip install xlrd
 
-# Root folder path
+# Root folder paths
 root_folder = "/Users/jaromirbartak/FLO Group s.r.o/FLO_Data_Solutions - Timesheets"
 # Writing the final dataframe to an excel file with the sheet name 'Timesheet'
 final_file_path = "/Users/jaromirbartak/Consolidated_Timesheets.xlsx"
