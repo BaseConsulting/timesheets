@@ -8,7 +8,8 @@ collecting timesheet and vacation plans
 4. instalace knihovny xlsxwriter (spustit přes terminál ve složce Venv Timesheets: pip install xlsxwriter)
 5. aktualizovat ve skriptu Main.py root_folder a final_file_path
 
-Root folder path
+**Root folder path**\
 root_folder = "/Users/*jaromirbartak*/FLO Group s.r.o/FLO_Data_Solutions - Timesheets"
-Result file path
+
+**Result file path**\
 final_file_path = "/Users/*jaromirbartak*/Consolidated_Timesheets.xlsx"
